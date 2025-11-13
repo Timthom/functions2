@@ -1,0 +1,38 @@
+p {
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+h1 {
+    font-size: 3rem;
+}
+
+
+
+#canvas {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 50px auto 50px auto;
+    background-color: blue;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+#button{
+    text-align: center;
+    width: 150px;
+    height: 50px;
+    margin: 30px auto 30px auto;
+    background-color: rgb(10, 10, 54);
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.4rem;
+    border-radius: 7px;
+    border-style: none;
+    display: block;
+}
